@@ -1,0 +1,28 @@
+baseurl = "em-bellis.github.io"
+title = "Emily S. Bellis, Ph.D."
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->NSF Postdoctoral Research Fellow in Biology in the <a href="http://www.personal.psu.edu/jrl35/psu/index_JRL.html">Lasky Lab</a> at Penn State,<!--]--><br />
+                <!--[-->studying evolution of genomic interactions in changing environments. <!--]-->'
+  logoimage = "/images/DNA_white.png"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/em_bellis"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/em-bellis"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
