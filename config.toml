@@ -7,8 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->NSF Postdoctoral Research Fellow in Biology in the <a href="http://www.personal.psu.edu/jrl35/psu/index_JRL.html">Lasky Lab</a> at Penn State,<!--]--><br />
-                <!--[-->studying evolution of genomic interactions in changing environments. <!--]-->'
+  description = '<!--[-->NSF Postdoctoral Research Fellow in Biology working with the <a href="http://www.personal.psu.edu/jrl35/psu/index_JRL.html">Lasky</a> and <a href="http://cwd.huck.psu.edu">dePamphilis</a> labs at Penn State,<!--]--><br />
+                <!--[-->studying evolution of genomic interactions. <!--]-->'
   logoimage = "/images/DNA_white.png"
   copyright = "Untitled"
 
