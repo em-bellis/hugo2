@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: em-bellis.github.io/sitemap.xml
